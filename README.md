@@ -1,2 +1,3 @@
-# ip-to-domain
-Using Reverse DNS, to turn an IPv4 to a Domain name
+# Reverse DNS Lookup
+
+This Python function accepts an IP address, makes a DNS request, and returns the domain name that maps to that IP address using PTR DNS records.
